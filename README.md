@@ -1,6 +1,6 @@
   <head>
     <backgound_color>#04C300</backgound_color>
-  <h1>Bem vindo ao nosso site</h1>
+  <h1>Spotknik</h1>
   </head>
 <body>
  <background_color>#000000</background_color>
